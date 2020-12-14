@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "34eafb0a-9365-41f4-b26c-9a4c7073b55c",
-		"name": "Mock Server",
+		"name": "MockServer",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
